@@ -1,0 +1,6 @@
+{
+  "name": "ReceiptMind",
+  "description": "Smart Receipt Management and Financial Health Dashboard driven by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
